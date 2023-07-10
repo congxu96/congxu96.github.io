@@ -4,12 +4,12 @@ main:
     url: /publications/
    
     
-  - title: "Experience"
-    url: /Experience/
+# -title: "Experience"
+#    url: /Experience/
         
     
   - title: "CV"
     url: /cv/
     
-  - title: "About me"
-    url: /talk/
+#  -title: "About me"
+#   url: /talk/ --->
