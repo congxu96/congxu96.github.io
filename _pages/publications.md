@@ -30,6 +30,6 @@ Journal Papers
     
 * 2021
 
-  ### J1. [Molecular Mechanism of Cell Membrane Protection by Sugars: A Study of Interfacial H-Bond Networks] ([https://doi.org/10.1515/nanoph-2020-0356])
+  ### J1. [Molecular Mechanism of Cell Membrane Protection by Sugars: A Study of Interfacial H-Bond Networks](https://doi.org/10.1515/nanoph-2020-0356)
    * Xiao You, Euihyun Lee, **Cong Xu**, and Carlos R. Baiz*
    * J. Phys. Chem. Lett. 2021, 12, 39, 9602–9607
