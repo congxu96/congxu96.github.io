@@ -37,11 +37,6 @@ Skills
   * LabVIEW
   * GROMACS, CHARMM-GUI, Gaussian 16
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
