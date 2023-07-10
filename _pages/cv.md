@@ -42,6 +42,15 @@ Teaching Assistant
 * PHY 101L. Laboratory for Physics 301. 2018 - 2019
 * CH 353. Physical Chemistry. Spring 2021
   
+Awards
+======
+* Jim Thompson Graduate Fellowship, 2020, UT Austin
+* Provost’s Graduate Excellence Fellowship, 2018, UT Austin 
+* Outstanding Student Award, for top 2% in department, 2016, Nanjing University
+
 Service and Outreach
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer, Chemists Celebrate Earth Week (CCEW) 2022
+* Volunteer, Time-resolved Vibrational Spectroscopy (TRVS) 2021
+* Mentor of Biological Sequence Analysis, Fall 2020, Directed Reading Program of Physics Dept.
+
