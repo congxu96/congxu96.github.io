@@ -13,7 +13,8 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 - Ultrafast two-dimensional infrared (2D IR) spectroscopy
 - Image processing of 2D spectra
 - Molecular dynamics simulations
+- Self assemble behavior of artificial membrane
 
 ## Current research topic
 Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra (submitted)
-https
+(https://congxu96.github.io/images/DMD.png)
