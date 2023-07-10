@@ -36,19 +36,11 @@ Skills
   * MATLAB, Mathematica, Python
   * LabVIEW
   * GROMACS, CHARMM-GUI, Gaussian 16
-
   
-Talks
+Teaching Assistant
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* PHY 101L. Laboratory for Physics 301. 2018 - 2019
+* CH 353. Physical Chemistry. Spring 2021
   
 Service and Outreach
 ======
