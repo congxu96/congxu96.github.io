@@ -14,7 +14,7 @@ author_profile: true
 Journal Papers
 ======
 * 2023
-  ### J4. [Characterizing the Self-Assembly Properties of Monoolein Lipid Isosteres](https://doi.org/10.1364/OE.471984)
+  ### J4. [Characterizing the Self-Assembly Properties of Monoolein Lipid Isosteres](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c07215)
    * Alessandro Fracassi, Kira A. Podolsky, Sudip Pandey, **Cong Xu**, Josh Hutchings, Soenke Seifert, Carlos R. Baiz, Sunil K. Sinha, and Neal K. Devaraj
    * J. Phys. Chem. B 2023, 127, 8, 1771–1779
     
