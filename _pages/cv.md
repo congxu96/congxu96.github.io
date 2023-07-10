@@ -16,24 +16,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2023: Research Assistant
+  * University of Texas at Ausitn
+  * Duties included: Characterizing the molecular interactions in biological membranes using 2D IR. 
+  * Supervisor: Professor Carlos R. Baiz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * University of Texas at Ausitn
+  * Duties included: Build a homemade Scanning Tunneling Microscopy (STM)
+  * Supervisor: Professor Chih-Kang Shih
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spectroscopy techniques:
+  * Fourier-transform infrared (FTIR)
+  * Two-dimensional infrared (2D IR)
+  * Surface Enhanced InfraRed Absorption (SEIRA)
+* Languages & Software:
+  * MATLAB, Mathematica, Python
+  * LabVIEW
+  * GROMACS, CHARMM-GUI, Gaussian 16
 
 Publications
 ======
