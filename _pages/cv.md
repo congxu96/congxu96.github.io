@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Nanjing University, 2018
-* Ph.D Candidate in Physics, jointly appointed by Chemistry department, University of Texas at Austin, 2024 (expected)
+* Ph.D in Physics, jointly appointed by Chemistry department, University of Texas at Austin, 2024 (expected)
 
 Work experience
 ======
