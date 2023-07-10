@@ -17,4 +17,4 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 
 ## Current research topic
 Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra (submitted)
-(https://congxu96.github.io/images/DMD.png)
+[![DMD](https://congxu96.github.io/images/scheme_v2.png)]
