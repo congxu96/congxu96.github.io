@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* 2020-2023: Research Assistant
+* 2020 - 2023: Research Assistant
   * University of Texas at Ausitn
-  * Duties included: Characterizing the molecular interactions in biological membranes using 2D IR. 
+  * Duties included: Characterizing the molecular interactions in biological membranes using 2D IR
   * Supervisor: Professor Carlos R. Baiz
 
 * Summer 2019: Research Assistant
