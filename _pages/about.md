@@ -17,7 +17,9 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 
 ## Current research topic
 - Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra (submitted)
+
 ![DMD](https://congxu96.github.io/images/scheme_v2.png)
 
 - Self-assemble behavior of N-oleoyl β-D-galactopyranosylamine (GOA) and IGEPAL
+  
 ![GOA](https://congxu96.github.io/images/GOAIGEPAL.png)
