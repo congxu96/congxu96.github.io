@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Department, University of Texas at Austin](https://www.utexas.edu/), working with Prof. [Carlos R. Baiz](https://baizgroup.org/). Previously, I received my B.S. at Physics in [Nanjing University](https://www.nju.edu.cn/) in 2018. 
+Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Department, University of Texas at Austin](https://ph.utexas.edu/), working with Prof. [Carlos R. Baiz](https://baizgroup.org/). Previously, I received my B.S. at Physics in [Nanjing University](https://www.nju.edu.cn/) in 2018. 
 
 ## Research interest
 - Ultrafast two-dimensional infrared (2D IR) spectroscopy
