@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Nanjing University, 2012
+* Ph.D Candidate in Physics, jointly appointed by Chemistry department, University of Texas at Austin, 2024 (expected)
 
 Work experience
 ======
@@ -54,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Outreach
 ======
 * Currently signed in to 43 different slack teams
