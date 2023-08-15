@@ -16,14 +16,14 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 - Self assemble behavior of artificial membrane
 
 ## Current research topic
-- Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra (submitted)
+### - Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra (submitted)
 
 ![DMD](https://congxu96.github.io/images/scheme_v2.png)
 
-- Self-assemble behavior of N-oleoyl β-D-galactopyranosylamine (GOA) and IGEPAL
+### - Self-assemble behavior of N-oleoyl β-D-galactopyranosylamine (GOA) and IGEPAL
   
 ![GOA](https://congxu96.github.io/images/GOAIGEPAL.png)
 
-- Dual Oxime Ligation Enables Formation of Functional Synthetic Membranes
+### - Dual Oxime Ligation Enables Formation of Functional Synthetic Membranes
 
 ![Oxime](https://congxu96.github.io/images/oxime2D.png)
