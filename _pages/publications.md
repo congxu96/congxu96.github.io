@@ -14,6 +14,10 @@ author_profile: true
 Journal Papers
 ======
 * 2023
+  ### J6. [Cutting Through the Noise: Extracting Dynamics from Ultrafast Spectra using Dynamic Mode Decomposition](https://chemrxiv.org/engage/chemrxiv/article-details/64f88ffe79853bbd783a23e6)
+   * **Cong Xu**, Carlos R. Baiz
+   * Submitted
+
   ### J5. [Sponge-phase Lipid Droplets as Synthetic Organelles: An Ultrafast Study of Hydrogen Bonding and Interfacial Environments](https://doi.org/10.1002/cphc.202300404)
    * **Cong Xu**, Alessandro Fracassi, Christopher P. Baryiames, Ahanjit Bhattacharya, Neal K. Devaraj, Carlos R. Baiz
    * ChemPhysChem 2023, e202300404
