@@ -16,7 +16,10 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 - Self assemble behavior of artificial membrane
 
 ## Current research topic
-### - Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra (submitted)
+### - Microscopy Channels Colocalization with Point Spread Functions
+![Colocal](https://congxu96.github.io/images/Colocalize.png)
+
+### - Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra
 
 ![DMD](https://congxu96.github.io/images/scheme_v2.png)
 
