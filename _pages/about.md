@@ -17,7 +17,7 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 
 ## Current research topic
 ### - Microscopy Channels Colocalization with Point Spread Functions
-![Colocal](https://congxu96.github.io/images/Colocalize.png)
+![Colocal](https://congxu96.github.io/images/Colocalization.png)
 
 ### - Dynamics Mode Decomposition (DMD) anaylsis of multidimensional spectra
 
