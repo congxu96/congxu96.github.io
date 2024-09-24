@@ -17,9 +17,8 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 
 ## Research topic
 ### - Machine Learning Enhanced Single Molecule Tracking
-<img src="https://congxu96.github.io/images/GB.gif" alt="Tracking" style="width:200%;"/>
-
-<![Tracking](https://congxu96.github.io/images/GB.gif)![Tracking](https://congxu96.github.io/images/2D_Tracking.png)![Tracking](https://congxu96.github.io/images/3d_rotation.gif)>
+<img src="https://congxu96.github.io/images/GB.gif" alt="Tracking1" style="width:100%;"/><img src="https://congxu96.github.io/images/2D_Tracking.png" alt="Tracking2" style="width:50%;"/>
+<img src="https://congxu96.github.io/images/3d_rotation.gif" alt="Tracking3" style="width:50%;"/>
 
 ### - Microscopy Channels Colocalization with Point Spread Functions
 ![Colocal](https://congxu96.github.io/images/Colocalization.png)
