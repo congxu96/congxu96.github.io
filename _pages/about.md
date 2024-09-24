@@ -15,7 +15,10 @@ Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Depar
 - Molecular dynamics simulations
 - Self assemble behavior of artificial membrane
 
-## Current research topic
+## Research topic
+### - Machine Learning Enhanced Single Molecule Tracking
+![Tracking](https://congxu96.github.io/images/3d_rotation.gif)
+
 ### - Microscopy Channels Colocalization with Point Spread Functions
 ![Colocal](https://congxu96.github.io/images/Colocalization.png)
 
