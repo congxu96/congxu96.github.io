@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Department, University of Texas at Austin](https://ph.utexas.edu/), working with Prof. [Carlos R. Baiz](https://baizgroup.org/). Previously, I received my B.S. at Physics in [Nanjing University](https://www.nju.edu.cn/) in 2018. 
+Hi, welcome to my homepage! I am currently a Ph.D. student at the [Physics Department, University of Texas at Austin](https://ph.utexas.edu/) under supervision of Prof. [Ernst Ludwig Florin](https://chaos.utexas.edu/people/faculty/ernst-ludwig-florin). I mainly work with Prof. [Carlos R. Baiz](https://baizgroup.org/) in [Chemistry Department](https://cm.utexas.edu/). Previously, I received my B.S. at Physics in [Nanjing University](https://www.nju.edu.cn/) in 2018. 
 
 ## Research interest
 - Image processing 
